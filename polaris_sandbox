@@ -1,0 +1,10 @@
+
+import lightkurve as lk 
+import matplotlib_inline as plt
+Pol = lk.search_lightcurve('TIC 303256075', author = 'SPOC')
+Pol
+
+
+
+
+#
